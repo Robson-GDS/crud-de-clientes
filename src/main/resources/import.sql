@@ -1,0 +1,10 @@
+INSERT INTO tb_client (name, cpf, income, birth_date, children) VALUES ('Joao Green', '11112121211', 4000.0, '1970-12-25', 2);
+INSERT INTO tb_client (name, cpf, income, birth_date, children) VALUES ('Spider Man', '22112121211', 3500.0, '1983-05-30', 0);
+INSERT INTO tb_client (name, cpf, income, birth_date, children) VALUES ('Kid Cheetos', '33112121211', 7080.0, '1969-07-04', 2);
+INSERT INTO tb_client (name, cpf, income, birth_date, children) VALUES ('Pedro Neto', '48212121277', 2000.0, '1995-11-15', 1);
+INSERT INTO tb_client (name, cpf, income, birth_date, children) VALUES ('Rafael Maldonado', '58295176455', 5015.0, '1990-04-08', 3);
+INSERT INTO tb_client (name, cpf, income, birth_date, children) VALUES ('Neto Pedro', '68245693811', 3000.0, '1993-02-18', 0);
+INSERT INTO tb_client (name, cpf, income, birth_date, children) VALUES ('Maria Daniela', '198736485267', 7500.0, '1965-01-30', 7);
+INSERT INTO tb_client (name, cpf, income, birth_date, children) VALUES ('Daniel Junior', '75348698641', 4000.0, '1985-05-25', 2);
+INSERT INTO tb_client (name, cpf, income, birth_date, children) VALUES ('Henrique Musashi', '65130285443', 2500.0, '1990-12-13', 0);
+INSERT INTO tb_client (name, cpf, income, birth_date, children) VALUES ('Breno Silva', '18745695233', 8000.0, '1998-07-15', 0);
